@@ -1,2 +1,2 @@
 # meu_repositorio
- primeiro repositório
+ primeiro repositório feito utilizando o GitHub Desktop.
